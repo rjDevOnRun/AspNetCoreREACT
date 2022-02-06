@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=gpfP60KjmZU&t=473s
+https://github.com/ArtOfEngineer/ReactJsCoreApi
+https://stackoverflow.com/questions/37269808/react-js-uncaught-in-promise-syntaxerror-unexpected-token-in-json-at-posit
+https://stackoverflow.com/questions/54720311/react-is-not-fetching-env-variables
+
+
+============================================================================================
+react install:
+https://create-react-app.dev/docs/getting-started/
+
+react create project:
+- open CMD in folder where u wish the project ....
+- then run:
+	npx create-react-app web-ui-app
+
+
+react run project:
+- in the project folder
+- CMD > npm start
+
+react bootstrap:
+ref: https://react-bootstrap.github.io/getting-started/introduction/
+run: npm install react-bootstrap bootstrap
+link: copy CSS link to 'index.html' under 'title' element
+
+
+
+
+
+
+

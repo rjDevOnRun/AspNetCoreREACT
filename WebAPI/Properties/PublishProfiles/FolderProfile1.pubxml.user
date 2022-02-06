@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\WEBSITES\ReactWebAPI</_PublishTargetUrl>
+    <History>True|2022-02-05T08:56:22.4341701Z;True|2022-02-05T17:53:33.5151940+09:00;True|2022-02-05T17:53:16.2972729+09:00;True|2022-02-05T17:46:12.5362591+09:00;False|2022-02-05T17:45:58.5121602+09:00;True|2022-02-05T17:41:23.3548229+09:00;True|2022-02-05T17:30:56.8674395+09:00;</History>
+  </PropertyGroup>
+</Project>
